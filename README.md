@@ -27,6 +27,7 @@ The program checks distance first, then layers in weather and transport availabi
 - Up to 1 mile → possible if it's not raining
 - 1–6 miles → possible if there's a bike and it's not raining
 - 6+ miles → possible if there's a car or a rideshare app
+
 **Example output:**
 ```
 distanceMi = 5, isRaining = False, hasBike = True
