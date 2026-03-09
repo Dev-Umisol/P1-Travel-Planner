@@ -48,4 +48,4 @@ travel-planner/
 └── README.md
 ```
 
-*Part of my Python learning journey 🐍 — my first project, practising conditional statements and logical operators*
+*Part of my Python learning journey 🐍 — my first project, practicing conditional statements and logical operators*
